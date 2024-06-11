@@ -1,0 +1,4 @@
+#N canvas 431 37 1339 763 12;
+#X obj 116 97 instrument_1;
+#X obj 489 303 play_button;
+#X coords 0 763 1 762 85 60 0;
